@@ -70,9 +70,6 @@ transform = Transform3D(0.340957, 0, 0, 0, 6.72869, -0.0126542, 0, 0.0896072, 0.
 [node name="wall" parent="." instance=ExtResource("2_doeps")]
 transform = Transform3D(-9.61721e-09, -28.6191, 0, 0.219995, -1.25086e-06, -0.0134407, 0.0030719, -1.74664e-08, 0.962554, 7.625, 0.66939, 8.62519)
 
-[node name="wall2" parent="." instance=ExtResource("2_doeps")]
-transform = Transform3D(-9.61721e-09, -28.6191, 0, 0.219995, -1.25086e-06, -0.0134407, 0.0030719, -1.74664e-08, 0.962554, -5.72662, 0.66939, 8.62519)
-
 [node name="wall3" parent="." instance=ExtResource("2_doeps")]
 transform = Transform3D(0.00291316, 1.23352e-06, 0.922454, 0.208626, -1.25086e-06, -0.0128807, 8.99288e-09, 28.6191, -4.03218e-08, 0.303371, 0.414102, 3.8034)
 
